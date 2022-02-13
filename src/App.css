@@ -1,5 +1,18 @@
 .App {
   text-align: center;
+  width: 50vw;
+  height: auto;
+  margin: 100px auto;
+  padding: 20px;
+  background-color: #61dafb;
+
+}
+.App> ul > li{
+  text-align: left;
+}
+.App> img{
+  width: 40vw;
+  height: fit-content;
 }
 
 .App-logo {
